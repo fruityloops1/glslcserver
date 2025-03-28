@@ -14,3 +14,4 @@ or following to run natively:
 ## credits
 - https://github.com/yhirose/cpp-httplib
 - https://github.com/shuffle2/nx2elf
+- https://github.com/open-ead/nnheaders
